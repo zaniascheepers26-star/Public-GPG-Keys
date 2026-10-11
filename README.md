@@ -6,7 +6,7 @@ The keyfile (.asc) is located in the /protonmail directory. Or you can generate 
 
 Email address:
 
-`danielsrosehill@protonmail.com`
+`Zania.scheepers26@gmail.com`
 
 ------
 
